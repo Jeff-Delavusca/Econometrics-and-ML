@@ -1,2 +1,5 @@
-# Aprendendo-Python
-Este repositório é destinado a armazenar meus scripts relacionados aos estudos que fiz e estou realizando em linguagem Python. Aqui serão disponibilizados apenas materiais referentes a essa linguagem. O objetivo é exclusivamente educacional, sem fins profissionais.
+# Econometria e Machine Learning (ML)
+
+Este repositório tem como objetivo armazenar meus projetos e análises de dados, com foco em econometria e machine learning.
+
+This repository is intended to store my data analysis projects, with a focus on econometrics and machine learning.
